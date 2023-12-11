@@ -18,7 +18,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import subprocess
 
-log_path = 'D:/รวมงาน/FS-Data/BI_Audit/NC-BI/'#'C:/Python/FS_CONFIG/CONFIG/Log/'#
+log_path = 'C:/Python/'#'C:/Python/FS_CONFIG/CONFIG/Log/'#
 # f = open("C:/Python/U_P_sharepoint.txt", "r")
 # textlogin = f.readlines(0)
 # f.close()
